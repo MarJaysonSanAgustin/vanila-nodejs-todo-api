@@ -1,0 +1,8 @@
+{
+  "name": "pure-node",
+  "version": "0.0.1",
+  "description": "pure nodejs rest api with mongodb",
+  "main": "index.js",
+  "author": "Jayson San Agustin",
+  "license": "MIT"
+}
